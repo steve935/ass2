@@ -84,7 +84,7 @@
         android:layout_height="wrap_content"
         android:inputType="number"
         android:ems="10"
-        android:maxLength="2"
+        android:maxLength="3"
         android:layout_alignBottom="@+id/textView"
         android:layout_alignStart="@+id/name_editText"
         android:id="@+id/age_editText"
